@@ -54,4 +54,4 @@ blend-credit-table/
 
 ## 相关项目
 
-- [mmd-credit-table](https://github.com/swlt-silica/mmd-credit-table) — 从 MikuMikuDance 工程（.pmm）生成借物表
+- [KariHelper](https://github.com/swlt-silica/KariHelper) — skill整合的软件
