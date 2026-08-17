@@ -54,4 +54,4 @@ blend-credit-table/
 
 ## 相关项目
 
-- [KariHelper](https://github.com/swlt-silica/KariHelper) — skill整合的软件
+- [KariHelper](https://github.com/swlt-silica/KariHelper) — skill改造成的软件
